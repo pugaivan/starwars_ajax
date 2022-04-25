@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inconsolata&display=swap');
+
+.App {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+button {
+    margin: 0 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background: none;
+    color: #FFE81F;
+    border: none;
+    padding: 0;
+}
