@@ -1,1 +1,5 @@
-# starwars_ajax
+# Just to learn ajax requests
+
+To run the project: 
+- `npm install`
+- `npm run start`
